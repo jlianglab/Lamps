@@ -1,4 +1,4 @@
-# ACE: Anatomically Consistency Embedding via Composition and Decomposition
+# Lamps: Learning Anatomy from Multiple Perspectives via Self-supervision
 
 # Pretrain ACE models:
 
